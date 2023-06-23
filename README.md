@@ -6,10 +6,19 @@
 
 # Contenidos
 
+1. [Integrantes](#integrantes)
 1. [Planteamiento](#planteamiento)
 1. [Casos de uso](#casos-de-uso)
 1. [Entrega 1](#entrega-1)
 
+
+# Integrantes  
+
+- Jesu Oliva
+- Gabriel Ayala
+- Ismael Vidal
+- César Marín
+- Carlos Pizarro 
 
 
 ## Planteamiento

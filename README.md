@@ -40,7 +40,7 @@ Hasta el momento se han definido las siguientes funcionalidades en el sistema:
 
 ## Entrega 1  
 
-Entregable: RAR con el proyecto
+Entregable: RAR con el proyecto [acá.](https://github.com/CarlosPizarroMorales/modulo6/releases/tag/v1.0.0)
 Ejecución: grupal
 
 **Requisitos**:

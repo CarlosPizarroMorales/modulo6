@@ -22,6 +22,7 @@
    
     	<button>Menu</button>
     	<ul>
+		    <li><a href="Inicio">Inicio</a></li>
 		    <li><a href="Contacto">Contacto</a></li>
 		    <li><a href="CrearCapacitacion">Crear Capacitación</a></li>
 		    <li><a href="ListarCapacitaciones">Ver Capacitaciones</a></li>

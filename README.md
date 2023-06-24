@@ -11,6 +11,7 @@
 1. [Casos de uso](#casos-de-uso)
 1. [Entrega 1](#entrega-1)
 1. [Entrega 2](#entrega-2)
+1. [Entrega 3](#entrega-3)
 
 
 # Integrantes  
@@ -82,22 +83,22 @@ En el ejercicio grupal de la presente jornada se creó un proyecto web con tres 
 
 (Correspondiente al ejercicio 2.1)
 
-- Entregable: RAR con el proyecto [acá](https://github.com/CarlosPizarroMorales/modulo6/releases/tag/v2.0.0).  
+- Entregable: RAR con el proyecto [acá](https://github.com/CarlosPizarroMorales/modulo6/releases/tag/v3.0.0).  
 - Ejecución: grupal.  
 
 **Requisitos**:  
 
 1. ✅ Cree un servlet para el caso de uso [Listar Capacitaciones][6]. Este servlet debe desplegar la interfaz  correspondiente creada en módulos anteriores, en base a un archivo JSP.  
-1. Aplique estilos CSS sobre todas las vistas JSP del proyecto. Este estilo debe ser compartido en un único [**archivo**][7].  
-1. En caso de que las interfaces HTML originales de cada caso de uso tuviesen asociada alguna validación o acción proveniente de Javascript, aplíquela.  
-1. Ejecute el proyecto y verifique que todo está en orden. Es importante que las vistas JSP tengan un menú compartido.  
+1. ✅ Aplique estilos CSS sobre todas las vistas JSP del proyecto. Este estilo debe ser compartido en un único [**archivo**][7].  
+1. ✅ En caso de que las interfaces HTML originales de cada caso de uso tuviesen asociada alguna validación o acción proveniente de Javascript, aplíquela.  
+1. ✅ Ejecute el proyecto y verifique que todo está en orden. Es importante que las vistas JSP tengan un menú compartido.  
 
 **Consideraciones**:
 
 - Nota 1: Este ejercicio es la continuación de los ejercicios grupales de la clase anterior.
 - Nota 2: En la misma línea de los ejercicios del día anterior, no se solicita que la plataforma se conecte a una base de datos, se pide solo desplegar interfaz.  
 
-## Entrega 4
+
 
 
 

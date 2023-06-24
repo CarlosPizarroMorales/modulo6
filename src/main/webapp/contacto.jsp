@@ -10,6 +10,14 @@
 	</head>
 	<body id="contacto">
 	
+		<button>Menu</button>
+    	<ul>
+		    <li><a href="Inicio">Inicio</a></li>
+		    <li><a href="Contacto">Contacto</a></li>
+		    <li><a href="CrearCapacitacion">Crear Capacitación</a></li>
+		    <li><a href="ListarCapacitaciones">Ver Capacitaciones</a></li>
+		</ul>
+	
 	
 	  <form action="Contacto" method="POST" id="contacto-form">
 	    <fieldset>
@@ -30,6 +38,6 @@
 	    </fieldset>
 	      
 	  </form>
-	  
+	   <script src="js/index.js"></script>
 	</body>
 </html>

@@ -67,7 +67,7 @@ Hasta el momento se han definido las siguientes funcionalidades en el sistema:
 
 (Correspondiente al ejercicio 2)
 
-- Entregable: Documento con +4 imágenes de evidencia del proceso, más 1 imagen que muestre la generación del WAR respectivo. Link [**acá**](https://docs.google.com/document/d/1VfBRr2oTsQlwmBeeQ9wOjFSOMdCIYm4tACyrU4FlZrQ/edit?usp=sharing)  
+- Entregable: Documento con +4 imágenes de evidencia del proceso, más 1 imagen que muestre la generación del WAR respectivo. Link [**acá**](https://drive.google.com/file/d/1_ucKQTTUTlvrtuic_qKTdy8uMjdEhMwt/view?usp=sharing)  
 - Ejecución: grupal  
 
 **Requisitos**:

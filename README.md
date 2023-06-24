@@ -49,8 +49,8 @@ Hasta el momento se han definido las siguientes funcionalidades en el sistema:
 **Requisitos**:
 
 1. ✅ Cree un proyecto Java Web a través de Maven, usando el arquetipo que posee el ID de artefacto “maven-archetype-webapp” (ID de grupo org.apache.maven.archetypes).
-1. ✅ En el proyecto recién creado, cree tres servlets correspondientes a los siguientes casos de uso: Inicio, Contacto y Crear Capacitación. Cada uno de estos servlets debe desplegar una interfaz que represente el caso de uso en cuestión, por medio de una vista JSP adecuada.  
-1. ✅ Inserte en el archivo pom.xml de Maven las siguientes librerías: JSTL y JUnit. 
+1. ✅ En el proyecto recién creado, cree tres servlets correspondientes a los siguientes casos de uso: [Inicio][1], [Contacto][2] y [Crear Capacitación][3]. Cada uno de estos servlets debe desplegar una interfaz que represente el caso de uso en cuestión, por medio de una vista JSP adecuada.  
+1. ✅ Inserte en el archivo pom.xml de Maven las siguientes librerías: [JSTL][4] y [JUnit][5]. 
 1. ✅ Ejecute el proyecto y compruebe que todo está en orden.  
 
 **Consideraciones**:
@@ -80,4 +80,12 @@ En el ejercicio grupal de la presente jornada se creó un proyecto web con tres 
 
 ## Entrega 3
 
+
+
+
+[1]:./src/main/java/cl/bootcamp/Inicio.java
+[2]:./src/main/java/cl/bootcamp/Contacto.java
+[3]:./src/main/java/cl/bootcamp/CrearCapacitacion.java
+[4]:https://github.com/CarlosPizarroMorales/modulo6/blob/d6d6902df65dff92ad6800254418e4fb552af5ed/pom.xml#L32C2-L37C14  
+[5]:https://github.com/CarlosPizarroMorales/modulo6/blob/d6d6902df65dff92ad6800254418e4fb552af5ed/pom.xml#L24C3-L29C18
 

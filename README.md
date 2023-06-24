@@ -59,7 +59,7 @@ Hasta el momento se han definido las siguientes funcionalidades en el sistema:
 
 **Observaciones de la implementación**:  
 
-- No se ha podido utilizar la anotación `@WebServlet` porque ha arrojado un error que indica que el servlet está siendo mapeado 2 veces. No se ha recibido una explicación clara de por qué sucede esto, si se siguen las mismas intrucciones que otras personas que replicando el ejercicio si pueden utilizarlas.
+- No se ha podido utilizar la anotación `@WebServlet` porque ha arrojado un error que indica que el servlet está siendo mapeado 2 veces. No se ha recibido una explicación clara de por qué sucede esto si se siguen las mismas intrucciones que otras personas que replicando el ejercicio si pueden utilizarlas.
  
 
 
@@ -80,6 +80,28 @@ En el ejercicio grupal de la presente jornada se creó un proyecto web con tres 
 
 ## Entrega 3
 
+(Correspondiente al ejercicio 2.1)
+
+- Entregable: RAR con el proyecto [acá](https://github.com/CarlosPizarroMorales/modulo6/releases/tag/v2.0.0).  
+- Ejecución: grupal.  
+
+**Requisitos**:  
+
+1. ✅ Cree un servlet para el caso de uso [Listar Capacitaciones][6]. Este servlet debe desplegar la interfaz  correspondiente creada en módulos anteriores, en base a un archivo JSP.  
+1. Aplique estilos CSS sobre todas las vistas JSP del proyecto. Este estilo debe ser compartido en un único [**archivo**][7].  
+1. En caso de que las interfaces HTML originales de cada caso de uso tuviesen asociada alguna validación o acción proveniente de Javascript, aplíquela.  
+1. Ejecute el proyecto y verifique que todo está en orden. Es importante que las vistas JSP tengan un menú compartido.  
+
+**Consideraciones**:
+
+- Nota 1: Este ejercicio es la continuación de los ejercicios grupales de la clase anterior.
+- Nota 2: En la misma línea de los ejercicios del día anterior, no se solicita que la plataforma se conecte a una base de datos, se pide solo desplegar interfaz.  
+
+## Entrega 4
+
+
+
+
 
 
 
@@ -87,5 +109,8 @@ En el ejercicio grupal de la presente jornada se creó un proyecto web con tres 
 [2]:./src/main/java/cl/bootcamp/Contacto.java
 [3]:./src/main/java/cl/bootcamp/CrearCapacitacion.java
 [4]:https://github.com/CarlosPizarroMorales/modulo6/blob/d6d6902df65dff92ad6800254418e4fb552af5ed/pom.xml#L32C2-L37C14  
-[5]:https://github.com/CarlosPizarroMorales/modulo6/blob/d6d6902df65dff92ad6800254418e4fb552af5ed/pom.xml#L24C3-L29C18
+[5]:https://github.com/CarlosPizarroMorales/modulo6/blob/d6d6902df65dff92ad6800254418e4fb552af5ed/pom.xml#L24C3-L29C18  
+[6]:./src/main/java/cl/bootcamp/ListarCapacitaciones.java  
+[7]:./src/main/webapp/css/style.css  
+
 

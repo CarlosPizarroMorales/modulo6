@@ -20,6 +20,12 @@
   	<description></description>
   	<servlet-class>cl.bootcamp.CrearCapacitacion</servlet-class>
   </servlet>
+  <servlet>
+  	<servlet-name>ListarCapacitaciones</servlet-name>
+  	<display-name>ListarCapacitaciones</display-name>
+  	<description></description>
+  	<servlet-class>cl.bootcamp.ListarCapacitaciones</servlet-class>
+  </servlet>
   <servlet-mapping>
   	<servlet-name>Inicio</servlet-name>
   	<url-pattern>/Inicio</url-pattern>
@@ -31,5 +37,9 @@
   <servlet-mapping>
   	<servlet-name>CrearCapacitacion</servlet-name>
   	<url-pattern>/CrearCapacitacion</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ListarCapacitaciones</servlet-name>
+  	<url-pattern>/ListarCapacitaciones</url-pattern>
   </servlet-mapping>
 </web-app>

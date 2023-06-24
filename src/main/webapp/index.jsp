@@ -11,7 +11,7 @@
   </head>
 
   <body id="index">
-    <main id="index-main">
+  	<main id="index-main">
       <img id="index-logo" src="./img/01.png" alt="logo de besafe asesores">
       <p id="index-banner">
         <span>BeSafe</span> Expertos en riesgo laboral
@@ -19,9 +19,26 @@
     </main>
 
     <section id="index-hero">
-      <button><a href="#">Iniciar Sesión</a></button>
-      <button>Menu</button>
+   
+    	<button>Menu</button>
+    	<ul>
+		    <li><a href="Contacto">Contacto</a></li>
+		    <li><a href="CrearCapacitacion">Crear Capacitación</a></li>
+		    <li><a href="ListarCapacitaciones">Ver Capacitaciones</a></li>
+		</ul>
+		
     </section>
+    
+    	<script>
+	    	const boton = document.querySelector('button');
+	    	const menu = document.querySelector('ul');
+	    	boton.addEventListener('click', clickHandler);
+	
+	    	function clickHandler() {
+	    	  menu.classList.toggle('aparecer');
+	    	}
+    	</script>
+    
   </body>
 
 </html>
